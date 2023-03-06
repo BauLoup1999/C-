@@ -1,0 +1,2 @@
+$ dotnet new gitignore
+Le modèle "Fichier gitignore dotnet" a bien été créé.
